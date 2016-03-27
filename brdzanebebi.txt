@@ -1,0 +1,19 @@
+case $(uname -m) in i686) mkdir -v /tools/lib && ln -sv lib /tools/lib32 ;; esac
+
+lib32 ; mantan aris libi686
+
+sheidzleba shecdoma mqondes 5.5 tavshi roca davwere es ori brdzaneba 
+1) sed -i '/k prot/agcc_cv_libc_provides_ssp=yes' gcc/configure
+2) sed -i 's/if \((code.*))\)/if (\1 \&\& \!DEBUG_INSN_P (insn))/' gcc/sched-deps.c
+
+
+mivedit 5.7 maketan // make unda gavaketot  da shemdeg make install
+
+esec gavakete  exla caution unda gavaketo udna shevamowmo yvelaferi mushaobs tu ara
+
+
+
+5.32-is configuers bolos damiwera ori warningi da mitxra ro ragac ar daacopira tu ar sheinaxa . gadaamowme mantan 
+
+5.34-is chatvlit mivedi wina gadaamoewme tu shesadzlebelia anu zeda rac avgnishne 5.32-ze 
+
